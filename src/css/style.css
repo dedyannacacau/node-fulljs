@@ -10,7 +10,14 @@ body {
   background: #000;
   color: #fff; }
 
-h1, h2, h3, h4, h5, p, b, span {
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+b,
+span {
   font-family: "Roboto", sans-serif; }
 
 .container {
@@ -51,7 +58,12 @@ h1, h2, h3, h4, h5, p, b, span {
   align-items: center;
   text-align: center;
   height: 100vh; }
-  .error-default h1, .error-default h2, .error-default h3, .error-default h4, .error-default h5, .error-default p {
+  .error-default h1,
+  .error-default h2,
+  .error-default h3,
+  .error-default h4,
+  .error-default h5,
+  .error-default p {
     text-transform: uppercase; }
   .error-default img {
     height: 190px;
